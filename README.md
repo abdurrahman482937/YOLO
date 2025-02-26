@@ -18,13 +18,10 @@ README.md ফাইল খুলে যেকোনো লাইন এডিট
 git add .  
 git commit -m "Add YOLO test line"  
 git push origin yolo-achievement  
-৫. Pull Request খুলুন
+৫. Pull Request খুলুন{:}
 GitHub-এ আপনার রিপোজিটরিতে যান।
-
 Compare & pull request বাটনে ক্লিক করুন।
-
 PR-এর টাইটেল দিন: YOLO Achievement Test।
-
 Create pull request ক্লিক করুন।
 
 ৬. ৩০ মিনিটের মধ্যে Merge করুন
